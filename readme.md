@@ -103,7 +103,7 @@ This repository is inspired by [gobyexample.com](https://gobyexample.com/), a fa
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the content as per the terms of the license.
+This repository is licensed under the [MIT License](https://opensource.org/license/MIT). Feel free to use, modify, and distribute the content as per the terms of the license.
 
 ---
 
